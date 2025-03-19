@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fccf636e-73e6-4be8-8e02-302579058edd)# DAILY CLASS HIGHLIGHT
+# DAILY CLASS HIGHLIGHT
 
 Date 19-3-2025 (Wednesday)
 
