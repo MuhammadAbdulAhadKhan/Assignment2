@@ -4,7 +4,7 @@ Date 19-3-2025 (Wednesday)
 
 In Today Class We Cover
 
-<h1>FIRST SOME CLASS DISCUSSION</h1>
+<h2>FIRST SOME CLASS DISCUSSION</h2>
      <p>Some Motivational Story Disusse By Sir Syed Muhammad Arsalan Shah </p>
 
 <h1>Dart Intro :<h1/>
